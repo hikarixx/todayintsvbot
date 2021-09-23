@@ -1,4 +1,0 @@
-c_key='FR7pCtcvpmBNHFodiz1ABe1Ve'
-c_secret='88zUOUXS1kpD20Y7som9xoCERpfbhezlLc6gaHRmRVk0RaelVM'
-a_key='1337349470984437760-ekWY5yFFoWIFLLAZXeYUhHgaSJo6OP'
-a_secret='emDasfDFFmesaP8vHn8FaqOLkMSR0WhOJuglKgH85sevT'
